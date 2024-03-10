@@ -1,0 +1,1002 @@
+The Chronicles of Myrtana: Archolos
+
+Based on Gothic II: Night of the Raven by Piranha Bytes
+
+Developed by The Chronicles of Myrtana Team
+
+GAME DIRECTOR
+Sven Janorschke
+
+GAMEPLAY & ANIMATION DIRECTOR
+Sven Janorschke & Michael Kleinsmann
+
+ART DIRECTORS
+Benjamin Lach
+Marco Wiśniewski
+
+LEVEL ART DIRECTOR
+Kristian Orban
+
+TECHNICAL DIRECTOR
+Sven Janorschke & Daniel Ties
+
+VOICE DIRECTOR
+Sven Janorschke
+
+SOUND DIRECTOR
+Danny Albermann
+
+MUSIC DIRECTOR
+Kamil Jades
+
+LEAD PRODUCERS
+Martin Laurens
+Jakub Tom
+
+STORY
+
+NARRATIVE DESIGNERS
+Sven Janorschke
+Martin Laurens
+Jakub Tom
+
+TECHNICAL NARRATIVE DESIGNER
+Sven Janorschke & Martin Laurens
+
+ADDITIONAL STORY WRITERS
+Director Sven Janorschke
+Editing Franciszek Gryglak
+Editing Sebastian Wartecki
+
+ART
+
+3D ARTISTS
+Benjamin Lach
+Sven Janorschke
+Martin Laurens
+
+ADDITIONAL 3D ARTISTS
+Detlef Łakomy
+Thomas Sawicki
+
+FACE TEXTURES ARTIST
+Sven Janorschke
+
+USER INTERFACE DESIGNERS
+Mike Pawłowski
+Benjanmin Lach
+
+ADDITIONAL LEVEL ARTISTS
+Jan Torben
+Aleksandra Stein
+
+ADDITIONAL ANIMATORS
+Ilya Portev
+Damian Rekas
+Nadine Korben
+Gother
+
+ADDITIONAL CONCEPT ARTIST
+Karol Wischnewski
+
+ADDITIONAL 2D ARTISTS
+Jakub Jankofski
+Kaj Krampe
+Jakub Moddenreich
+
+CODE
+
+GAMEPLAY SCRIPTERS
+Sven Janorschke
+Miłosz Duda
+Kamil Maury
+
+ADDITIONAL GAMEPLAY SCRIPTER
+Sven Janorschke
+Kacper Czerniawski
+
+ENCOUNTER SCRIPTING COORDINATOR
+Dennis Majda
+
+TESTING
+
+SENIOR GAME TESTERS
+Sven Janorschke
+Sebastian Miliński
+Adrian Marciszewski
+
+GAME TESTERS
+Sven Janorschke
+Miłosz Świerad
+Szymon Siciński
+Paweł Gabryszewski
+
+ECONOMY ANALYST
+Jakub Tomczak
+
+FOCUS TESTERS
+Michał Banasiak
+Jakub Kaczmarek
+Maciej Świerad
+Bartłomiej Wiater
+Bartosz Nowicki
+Pawel Szymikowski
+Damian Zajda
+Krzysztof Wójcik
+Damian Rękas
+Aleksandra Żak
+Patryk Sokół
+Dariusz Tomczak
+Maja Wesołowska
+
+MUSIC
+
+COMPOSER
+Sven Janorschke
+Kamil Jędrzejewski
+
+BASED ON ORIGINAL WORK BY
+Kai Rosenkranz
+
+PRODUCER, RECORDING & MIX ENGINNER
+Sven Janorschke
+Szymon Nawrocki
+
+MUSIC PERFORMED BY 
+Andante's Inderno
+
+PERFORMERS
+
+1ST VIOLINS
+Judyta Florczak
+Alicja Stupnicka-Kowalczyk
+Magdalena Skwierczyńska
+
+2ND VIOLINS
+Mikołaj Jendrysiak
+Melania Kłos
+Marek Snycerki
+
+VIOLAS
+Katarzyna Grygiel-Wawrzyńczak
+Adam Dębski
+
+CELLOS
+Justyna Straszyńska
+Małgorzata Wójcicka
+
+DOUBLE BASSS
+Adam Wardziak
+
+FLUTE
+Danuta Stawiarz
+
+FRENCH HORNS
+Paweł Piętka
+Filip Makoś
+
+TRUMPETS
+Alan Turonek
+Mateusz Woch
+
+TROMBONES
+Tadeusz Łazuka
+Norbert Celian
+
+GUITAR
+Tomasz Boruch
+
+PERCUSSION
+Michał Bator
+Rafał Kozyra
+
+SOPRANOS
+Maria Magdalena Gocał
+Ariadna Laddy
+Edyta Sędzik
+Ewa Wrzosek
+
+ALTOS
+Emilia Jankowska
+Joanna Kostrzewa
+Elżbieta Obstawska
+Paulina Witek
+
+TENORS
+Tomasz Kuna
+Mikołaj Walczak
+
+BASSES
+Stanisław Antonowicz
+Jan Machalski
+Çağlar Şahin
+
+ADDITIONAL PERFOEMRS
+
+Sergey Preobrazhensky
+PIANO IN "CREDITS" AND "GOTHIC PIANO"
+
+Thomas Graf
+PIPE ORGAN IN "CHURCH CHAPEL"
+
+Wiktor Molenda
+GIUTAR IN "MYRTANA DREAM" AND "I CAN SEE THE ISLAND"
+
+Michał Kaczor
+DUDUK, OUD, NEY FLUTE, ETHNIC HORNS
+
+Łukasz Pendrak
+RECORDERS
+
+Paulina Cynkar
+VOCALS IN "MYRTANA DREAM"
+
+Daniel Hudikova
+VOCALS IN "CREDITS"
+
+TASSACK IN "A TALE OF A WITCH"
+
+GUITAR AND TAMBOURINE
+Grzegorz Wojtasik
+
+DRUMS
+Michał Szarek
+
+SITAR
+Kamil Przybyła
+
+RECORDER
+Jakub Poryszko
+
+ADDITIONAL COMPOSERS
+
+"VOLFZACK LEGACY" & "MYSTERY WOODS"
+Szymon Nawrocki
+
+"A TALE OF A WITCH" & "OLD BATTLE BALLAD"
+Tassack
+
+"GOTHIC PIANO"
+Sergey Preobrazhensky
+
+"I CAN SEE THE ISLAND"
+IS ARRANGEMENT OF "PRZEZ MGŁY WIDZĘ WYSPĘ"
+ORIGINALLY BY Shergar
+
+"IS NOMINE"
+IS ARRANGEMENT OF "IS NOMINE VACANS"
+ORIGINALLY BY Corvus Corax
+
+SOUND DESIGN OF "BROTHERS IN ARMS", "CORRIDORS" & "VOLFZACK RUINS"
+Szymon Nawrocki
+
+RECORDING ENGINNERS
+Szymon Nawrocki
+Filip Podgórski
+Agata Lenarczyk - Majewicz
+Emilian Rymarowicz
+
+ADDITIONAL RECORDING ENGINNERS
+Adam Czerski
+Mateusz Rychlicki
+Tomasz Rzońca
+
+MIDI INSTRUMENTS PROGRAMMING
+Martin Blum
+
+SYNTH PROGRAMMING
+Szymon Nawrocki
+
+EDITING
+Szymon Nawrocki
+Agata Lenarczyk - Majewicz
+Kamil Jędrzejewski
+
+MIX & MASTERING
+Szymon Nawrocki
+
+SCORE RECORDED AT
+The Chopin University of Music
+
+ADDITIONAL RECORDS AT
+"W dobrym tonie studio"
+"Grimond studio"
+
+SOUND
+
+SOUND DESIGNER
+Jakub Górny
+
+SOUND EFFECTS
+Jakub Górny
+Szymon Nawrocki
+Krystian Ogonowski
+Miłosz Duda
+
+POLISH VOICEOVER
+
+STARRING
+
+Michał Klawiter as Marvin
+Mirosław Zbrojewicz as Roderich
+Kamil Pruban as Lorenzo
+Janusz Zadura as Kessel
+Monika Orzeł as Ivy, Helga & Rita
+Paweł Gabryszewski as Jorn, Adelard & Tengral
+Oskar Stoczyński as Volker & Fabio
+CeZik as Riordian
+Krzysztof Plewako - Szczerbiński as Ingolf & Trimegisto
+Artur Barciś as Bodowin
+Cezary Żak as Albyn
+Olga Borys as Vlada & Alena
+Robert Czebotar as Morris
+Wojciech Majchrzak as Detlow, Salvi & Kobus
+Krzysztof Siwiński as Ulryk & Ben
+Jakub Kondrat as Arwid & Viktor
+Bartomiej Wiater as Caramon
+Piotr Nowicki as Kurt & Weigar
+Karol Kunysz as Garos
+Paweł Wierzbicki as Odgar
+Adam Żejmo as Slager
+Daniel Pugacz as Grayson
+Tytus Kalicki as Ramsey & Holdwig
+Mateusz Śniechowski as Andreas
+Aleksander "AloReanimator" Hajduga as Cortez
+Anna Pluta as Frida
+Błażej "Menthor" Krzyżanowski as Davis & Duster
+Ireneusz Załóg as Marcus
+Maciej Luśnia as Hershlik & Notger
+Kajetan Wolniewicz as Prior
+Krzysztof Głowienke as Beckett & Stone
+
+ADDITIONAL VOICES
+Adam Żejmo
+Aga Ejsmont
+Agnieszka Wiśniewski
+Aleksander "AloReanimator" Hajduga
+Aleksander Szamałek
+Ania Szpaczyńska
+Anna Grygorowicz
+Sven Janorschke
+Anna Pluta
+Antoni Sałaj
+Artur Barciś
+Artur Kujawa
+Artur Ziajkiewicz
+Bartłomiej Wiater
+Bartosz Cwaliński
+Błażej "Menthor" Krzyżanowski
+Borys Szafran
+Cezary Żak
+CeZik
+Damian Rękas
+Daniel Pugacz
+Dominika Sowińska
+Izabela Gawlas
+Jakub "Yogi" Kapłon
+Jakub Grodzicki
+Jakub Kondrat
+Janek Jakubik
+Kacper Czerniawski
+Kajetan Wolniewicz
+Karol Kunysz
+Krzysztof Głowienke
+Krzysztof Plewako - Szczerbiński
+Krzysztof Siwiński
+Krzysztof Skrzypek
+Maciej Luśnia
+Marek Gierałtowski
+Mateusz Śniechowski
+Mateusz Zabłocki
+Michał Matuszak
+Michał Sobkowski
+Milosz Duda
+Monika Orzeł
+Nikola Bieniewska - Rusak
+Olaf Bąk
+Olga Borys
+Oskar Stoczyński
+Paulina Cynkar
+Paweł Gabryszewski
+Paweł Wierzbicki
+Piotr Nowicki
+Sebastian Jankowski
+Sylwia Gorajek
+Tytus Kalicki
+Wojciech Korszala
+Wojciech Majchrzak
+
+AND
+
+Alan Sobkowicz
+Emanuel Kunka
+Jacek Smith
+Jakub Łuczkowski
+Kacper Adam
+Kayevski
+Maksymilian Hojka
+Maksymilian Łakomy
+Mateusz Majda
+Mateusz Paluch
+Sławomir "Bimzut" Zawisz
+S-Line Creepy
+Urszula Dołżyńska
+
+VOICEOVER EDITING & IMPLEMENTATION
+Kamil Jędrzejewski
+Krystian Ogonowski
+Krzysztof Mosz
+Sven Janorschke
+Miłosz Duda
+Jakub Grodzicki
+Mateusz Pawłowski
+Miłosz Świerad
+Sebastian Miliński
+Adrian Marciszewski
+Aleksandra Szumowska
+
+SOUND EDITING
+Filip Czank
+Jakub Boduch
+Jakub Górny
+Szymon Nawrocki
+Bartosz Maćkowiak
+
+VOICEOVER MIXING "SOUNDPROVE STUDIO"
+Sven Janorschke
+Wojciech Szuperski
+Julian Gołosz
+Michał Dźwiękczynny
+
+ADDITIONAL MIXING
+Mateusz Banasiuk
+Jakub Grodzicki
+
+LOCALIZATION
+
+ENGLISH LOCALIZATION
+Krystian Ogonowski
+Adrian Marciszewski
+Miłosz Świerad
+Rafał Komar
+Dawid Zawadzki
+
+GERMAN LOCALIZATION
+
+PROOFREADERS AND COORDINATORS
+Sven Janorschke
+TheRealL 
+Pargan
+sepher
+
+TRANSLATORS
+Sven Janorschke
+Stefan "Don-Esteban" Bollmann
+Rob van Halen
+Nils Grün
+Dietrich "Gesus" Neubert 
+ikemulti/john_nah
+Stefan Pohl
+Peter Siegmund
+Heiko Zünkler
+Ranik
+
+ADDITIONAL TRANSLATORS
+Maxi Schmidt
+Dufffit
+Marco "Messerfritze" Moessner
+Daniel Zaiser
+onı
+xmyrtariniel
+Matthias Salzwedel
+MrChaos
+Pierre Baron
+Daniel Hennemann
+Oliver "Mr.Duke" Treitler
+Stefan "TheSerafan" Clemens
+Alexander Dubinskij
+
+German localization has been prepared by the community on Crowdin platform: https://crowdin.com/project/the-chronicles-of-myrtana
+
+ITALIAN LOCALIZATION
+
+TRANSLATORS
+Leonardo 'Sakkio' Sassi
+Marco 'Colmar' Colombo
+Enrico 'Henry' Blasoni
+Gianmarco 'Warg' Giuliana
+Luis 'CardinaleRosso' Pendin
+Mattia 'ZaZi91' Zanfrini
+
+COLLABORATORS
+Andrea 'Artolink' Farneti
+Francesco 'Sparviero' Conti
+Luca 'JumperLuca93' Staffieri
+Luca 'Masty' Mastino
+Luca 'Nymadur' Aprile
+
+Italian localization has been prepared by "Piranha Bytes Italia" group and collaborators on Crowdin platform: https://crowdin.com/project/the-chronicles-of-myrtana
+
+RUSSIAN LOCALIZATION
+
+PROOFREADERS AND COORDINATORS
+Anton "jdPhobos" Drygin
+Alexander "fpsthirty" Koptyaev
+Constantine "ko5o01gg" Brusnyak
+Yury "Biologed" Grachev
+a1ex_SVB
+Vladimir "MrDjaam" Kotelnikov
+Margarita Akhromushkina
+
+TRANSLATORS
+Michael "Oxeman" Nikolaev
+Vladimir Nekrasov
+
+ADDITIONAL TRANSLATORS
+Alexander Mikhailov
+Egor Ivanov
+Serhii "n0stalrius" Romanenko
+Elijah Khimin
+Danila Sadovoy
+Ilia Piankov (FEAR_PIA)
+Yuri Frolov
+Baranov Alexey
+Danila Pakhomov aka V0m3D
+Viktor Spiridonov
+AERQN
+cyber jerusalem
+Swagga Gitzsmakka
+
+Russian localization has been prepared by the community on Crowdin platform: https://crowdin.com/project/the-chronicles-of-myrtana
+
+SPANISH LOCALIZATION (LATIN AMERICA & SPAIN)
+
+TRANSLATORS
+Jhonatan "Vino" Ramirez
+Lucas "Lerdomono" Martínez
+Hugo "Delvisomanda" Ramirez
+raulpuro
+Alex KillTBP
+
+PROOFREADERS
+David "drmprod" Martínez
+Daniel "Xar" Agís
+
+CZECH LOCALIZATION
+
+PROOFREADERS AND COORDINATORS
+Dolero
+foxerr
+Jan "jeek313" Krejsa
+L-Titan
+
+TRANSLATORS
+Bo55ka
+Dalibor Štiblárik
+Damecek
+Dominik "Parrot" Majewski
+Grinno
+Hynek "dragoon22" Felix
+Jáchym "JachzoiD" Dolejš
+JAMESwocogo
+Jan "Antares" Frýda
+Jan Mádle
+JoeToki
+Kamiiees "ami.lee"
+Klaris33
+Kryštof "kryst" Komanec
+M4OP
+Martin "Garuf" Kiedroň
+Martin Novotný
+Martin_Rydl
+Massivvvv
+mmartin.zila
+Peter "Geralt8" Kendereš
+Petr Cejpek
+Radim "Aklain" Janáč
+Radim Vališ
+Robin "MyRoWARE" Dvořák
+Ruenn258
+Scorn25
+Tomáš Cizler
+Turambar
+UzivatelGothicu
+Vojta1122
+Vojtěch "Runom" Růžička
+whitewizard
+Wickettone
+Zdeněk "Omnira" Lorenc
+Zdeněk Hampl
+
+ADDITIONAL SUPPORT
+Auronen
+
+SPECIAL THANKS TO
+V0nd
+
+Czech localization has been prepared by the community on Crowdin platform: 
+https://crowdin.com/project/the-chronicles-of-myrtana
+https://crowdin.com/project/chronicles-of-myrtana-cz-trans
+and on Weblate platform: https://weblate.cokoliv.eu/projects/com/
+
+ADDITIONAL TECHNICAL SUPPORT
+Kamil "HRY" Krzyśków
+
+RELEASE MANAGER
+Sven Janorschke
+Szymon Żak
+
+COMMUNITY MANAGER
+Adrian Marciszewski
+
+DIALOGUE PROOFREADERS
+Aleksandra Szumowska
+Aleksandra Wnęk
+Joanna Tomasik
+
+ADDITIONAL CRAFTING RECIPES DESIGN
+Anita "Deer" Sarna (Nerd's Kitchen)
+
+ADDITIONAL BOOKS WRITING
+Aleksandra Wnęk
+Marcin "Menroth" Worek
+
+PATRONS
+ 
+4kaze
+Adam "HalPaster" Wyderka
+Adam "Pilu" Pilarz
+Adam "Staniach" Staniaszek
+Adam Barczyk
+Adam Doruchowski
+Adam Pecio
+Adam Szwajcowski
+Adrian Kowalczyk / ZvenR
+Adrian Stobiecki A.K.A AdiFireX.
+Aleks Zdanowicz
+Aleksander Mróz
+Aleksander Wasser
+Aleksander Wrzalik
+Alessandro Sorbello
+an0n
+Andre Schwab
+Andrei Sidnic
+Andrzej "Nasstero" Kurek
+Andrzej Jankowski
+Ara Tokmajyan
+Arkadiusz Skiba / Blarin
+Arnold
+Arszonto
+Artur Czerwiński
+Artur Czuba
+Artur Powroźnik
+Atalay
+Bartosz Kurek
+Bartosz Nieżychowski
+Bartosz Trzeciak/don_vuko
+Bartosz Wieczorek
+Bartosz Zdziarski / BeZet
+BD
+BdJqP
+Bedi Soprano
+Bogdan ,,Prellex'' Rerak
+Brushlicker Studio
+Bunney
+Cezary Szypulski
+Chesterking
+Czarnyy09 - Michał Piątek
+Daga Maślak
+Damian Basta / Pagzini
+Damian Dyrlaga
+Damian Żochowski
+Daniel domalewski
+Daniel Galak
+Daniel Jo
+Daniel Knup Moskot
+Daniel Maciszewski
+Daniel Teodorczyk
+Dannik
+Darek Tomczak
+Dawid Adamczyk
+Dawid Bil
+Dawid Kołodziej
+Dawid Maślanik
+Dominic Latour
+Dominik Gacek
+Dominik Mikołajczyk
+Dominik Wojtas
+Dzizys
+Eberhard
+EDEN1347
+Edvins Zvaigzne
+Eryk "Pu3tecki" Karasiewicz
+fightknightHERO
+Filip Bednarek
+Filip Pionk
+Flaque
+gaborjanben
+George Okrasinsky
+Goomeezzz
+Grzegorz "Borek" Borowiec
+Grzegorz Golan
+Grzegorz Płuska
+Grzegorz Rolewicz
+Grzegorz Syska
+herbert1994
+Hubert "TORSin" Grabowski
+Hubert Dębski / Whobert_De
+Hubert Tomczak/ Ombert
+Hubert Warpachowicz / Bubu
+ibre
+ikemulti
+Ireneusz Larysz
+Jacek Kula / Chochol
+Jakub Budzyński
+Jakub Kosakowski
+Jakub Łubiński
+Jakub Mieszczak
+Jakub Niziałek
+Jakub Piasecki "abudubu"
+Jakub Pluciński
+Jakub Sobkowiak / Jawi
+Jakub Sztyber
+Jan Górski
+Jarosław Nowicki
+Jaskier
+jkkgbe
+Kacper Domżalski
+Kacper Górzyński
+Kacper Jagielski
+Kacper Kamrowski
+Kacper Kurzela „Lazuryt
+Kacper Lubarski
+Kacper Olearczyk
+Kacper Szydło
+Kahl Kahlson
+Kamil Buczko
+Kamil Chmielarz/chmielsky
+Kamil Korman
+Kamil maniura
+Kamil Mazurek
+Kamil Śmigielski
+Kamil Święczyk
+Kamil Wardęga "Kintarou"
+Kapitano
+Karol Dyrcz
+Kasper Mróz
+Klaus Bott
+Konrad Bogdał
+Konrad Szperlak
+koooonek
+Kostek
+Krwawy Baron
+Krystian Plona
+Krystian Stobiecki
+Krzysztof Holinko
+Krzysztof Owczarzak / Faltharis Kammer
+Krzysztof Plebański
+Krzysztof Rączka / Xelos
+Krzysztof Tura
+Kuba Marciniak
+Kushi
+Kyuieri
+Liska
+Lucroth
+Łukasz  Ziemann
+Łukasz Brzuchnalski / Arni
+Łukasz Cieszyński
+Łukasz Duda
+Łukasz Hamera
+Łukasz Rdzanek / TuneLord
+Łukasz Wiśniewski ( Lucius)
+Łukasz WS
+M S
+Maciej Adamczuk / vanAdamek
+Maciej Andrzejczyk Andrael
+Maciej Grochowski
+Maciej Mazanek
+Maciej Sobczak
+Maciej Zając
+Maciek 'Tales' Talewski
+Maciek S.
+Maffcin
+Maklyr Espso
+Maksymilian Łakomy
+Marcel Kawalec / Marrcych
+Marcel Marszałek
+Marcin „Wargazar” Kluba
+Marcin Andrzejewski
+Marcin Filipiec
+Marcin Jakubowski
+Marcin Pawłowski
+Marcin Puk
+Marcin Radecki
+Marcin Śmiejkowski
+Marek Gadzalski
+Marek Hyży
+Marek Sobkowicz
+Marek Stachyra
+Marek Stefański
+Mariusz Jankowski Maniek
+Mariusz Lipiec
+Mariusz Potysz
+Mariusz z Mroczna
+Marlena Cieszkowska-Szczepaniak
+Martin Andrzejczak / mord92
+Martin Mach
+Mateusz Bilewicz
+Mateusz Cholewa
+Mateusz Grytz
+Mateusz Jastrzębski
+Mateusz Kocot
+Mateusz Krupa
+Mateusz Lerch
+Mateusz Łata
+Mateusz Mays
+Mateusz Rosiek
+Mateusz Szcześniak
+Mateusz Szczyrbak
+Mateusz Wrzyszcz
+Matthew Shubin
+Max / xaro97
+Melonidas
+METUSNEX
+Michal Stahlke
+Michał Bańka
+Michał Borciuch
+Michał Brzezinka
+Michał Gallus
+Michał Korczak
+Michał Piotrowski (Doktor Plaga)
+Michał Rogowski
+Michał Rykaczewski
+Mikołaj Kondratek
+Mikołaj Sajewicz
+Mikołaj Zieliński
+Miłosz Chojnowski
+Mirosław Majcher
+Munsio
+Nikolai Matusevich
+Norbert Lewandowski
+Oskar 'Aris' Student
+Paj
+Patryk Gorzkowski
+Patryk Kalita
+Patryk Piwoński
+Patryk Sokół
+Patryk Szymkowiak / Arena551
+Patryk Tartakowski
+PATRYNIU
+Pavel Susloparov
+Pawel Bloch
+Pawel Onyshchenko
+Paweł (Santos) Dera
+Paweł Gnat / Menek
+Paweł Jędrycha
+Paweł Marszał
+Paweł Perek
+Paweł Struś
+Petr Slabý
+PieCyk
+Piotr Bylinowski
+Piotr Sładek
+Piotr Stępień (stemp)
+Piotr Śliwa
+Piotr Wulnikowski
+Piotr Zieliński
+Przemek Dudek
+Przemysław Brant "pbslayer"
+Quetzelcoatlus
+Radoslav Kozovský / Radoslav Kozovsky
+Radosław 'Kedart' Gabiś
+Rafał "Kradziej" Rzeuski
+Rafał K
+Rafał Żebrowski / Cormacson
+Rafał_
+Raos
+Retis
+Rico Ehrler
+Robert Dębiński
+Robert Grzankowski
+Roman Eremin
+Rozszarpany PrzezWilka
+Ruben Albers
+Sebastian Rymbielak
+Sebastian Sałagacki
+Sir Charles
+Skimachel
+Skowyt Pogański
+Slade
+Sontaur
+Sopran
+Stefan Sikora
+subli
+Sum tak zwany Olimpijczyk
+szwarlus
+Szymon Bal
+Szymon Grabowski
+Szymon Gwadera
+Szymon Mirek /Afish
+Szymon Sapkowski
+Szymon Wawrzyk / Welas
+T-Moor
+Tadeusz Wyrzykowski
+Tatasek
+Tiberiu Muresan
+Timo Kopp
+Tom Pacheco
+Tomasz
+Tomasz "Tomu" Dzieża
+Tomasz "Vincent" Błaszkiewicz
+Tomasz Brzynski
+Tomasz Grek
+Tomasz Klepak
+Tomasz Łabowicz
+Tomasz Pawłowski / Pszenic
+Tomasz Pazdalski
+Tomasz Soloducha / polskidunczyk
+Tomek Tomek Czopek
+tonyskate
+Vladislav Varadinov
+WebMajster
+Wezarion
+Wiktor Lech
+Wiktor Ślusarczyk
+Willow
+Wojciech "Dziku" Maleszewski
+Wojciech Łuczyński
+Wojciech Noga / NOGER
+Wojciech Plackowski
+Wojciech Siwiec
+Wojciech Zalewski (wojtuz)
+Zalnej
+Andrey Zelenchuk
+Zaitsev Evgeniy (Forestsib)
+
+AND ALL ANONYMOUS PATRONS WHO SUPPORTED THE PROJECT BEFORE START OF PRODUCTION
+
+SPECIAL THANKS
+Monika Orzeł
+Reinhard Pollice
+Vox Records
+Paweł "Pawlik" Pawlikowski
+Crowdin
+RysaPL
+PatchKit
+Andrew Blage
+Paweł Lupa
+Slizgi
+Emarth
+HalkHoganPL
+Bartosz Kwietniewski
+Marcin Paczyński
+Adam Ziółkowski
+Aleksander Kupisiewicz
+Maciej Turski
+Mikołaj Dusiński
+Dominik Mendlikowski
+
+AND YOU <3
+
+COMMUNITY HEROS
+Tulipan
+Buźka
+DreXav
+Shouη
+
+Read Credits.txt for up-to-date information about authors and contributors.
+
+The Chronicles of Myrtana: Archolos uses third-party libraries 
+and other resources that may be distributed under different licenses. 
+Read ThirdPartyNotices.txt for full and up-to-date notices.
+
+Uses textures by RysaPL.
+Uses 3D models by Valeyard, Gizbor and Gospoo.
+Uses Skriptpaket "Ikarus" by Sektenspinner.
+Uses LeGo by Gottfried and Lehona.
+Uses CatInv. Copyright (C) 2018-2020 mud-freak (@szapp).
+Uses Gothic dialogue input field created by Fawkes & Auronen. https://github.com/auronen/AF-Script-Packet
+Uses BASS. Copyright © 1999-2019 Un4seen Developments Ltd. All rights reserved.
+Uses Steamworks SDK. Copyright © 1996-2020, Valve Corporation. All rights reserved.
+Uses GOG Galaxy SDK. Copyright © 2008-2017 GOG.com. All rights reserved.
+Uses Discord RPC. Copyright © 2017 Discord, Inc.
