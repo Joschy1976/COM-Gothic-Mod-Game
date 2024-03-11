@@ -1,0 +1,20 @@
+We encourage you to play the mod on Steam or GOG platforms. They both have smooth installation, already patched original Gothic 2 and automated updates.
+
+This download is intended for people with non-digital version of Gothic 2: Night of the Raven / Gothic 2: Gold Edition.
+
+https://store.steampowered.com/app/1467450
+https://gog.com/game/the_chronicles_of_myrtana_archolos
+
+Installation guide:
+
+1. Install Gothic 2: Night of the Raven / Gothic 2: Gold Edition
+2. Install https://download.kronikimyrtany.pl/gothic2_fix-2.6.0.0-rev2.exe
+3. Install https://download.kronikimyrtany.pl/gothic2_playerkit-2.6f.exe
+4. Install https://download.kronikimyrtany.pl/G2NoTR-SystemPack-1.8.exe
+5. Apply 4GB / LAA patch on Gothic2.exe file https://download.kronikimyrtany.pl/LaaHack.zip
+6. Copy content of ZIP file to your Gothic directory
+7. Run System/GothicStarter.exe as Administrator and select the language version of the mod (your language or with additional Polish voiceover)
+
+Depending on the version of Windows, and other circumstances, additional steps may be required to run the mod without issues.
+
+Please visit our Discord if you encounter any problem. Both team and community members will gladly help you! https://discord.gg/kronikimyrtany
